@@ -1,3 +1,8 @@
+# Spring Deploy
+Proyecto para las pruevas de:
+1. Package en maven y ejecucion con el .jar desde linea de comandos
+2. Deploy de la app desde Railway
+
 ## Despliegue de apps Spring Boot en Railway
 
 Crear archivo `system.properties` en el proyecto con el contenido:
